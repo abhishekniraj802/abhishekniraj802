@@ -104,7 +104,7 @@ Passionate about crafting dynamic web applications, collaborating with designers
 <h3 align="left">💻 Skills</h3>
 
 *Languages:*  
-- C++, Java (Core Java, Advanced Java), HTML/CSS, JavaScript 
+- C++, Java (Core Java, Advanced Java), Python, Data Analytics HTML/CSS, JavaScript 
 
 *Tools:*  
 - IntelliJ IDEA, Eclipse IDE, VSCode, Jupyter Notebook, Git & GitHub  
