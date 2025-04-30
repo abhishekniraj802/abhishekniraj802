@@ -1,6 +1,6 @@
 # Hi, I'm ABHISHEK NIRAJ !👋
 
-### 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
+### 🌟 Aspiring Java Full Stack Developer | DATA ENGINEER | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
 Welcome to my GitHub profile! I'm a passionate and driven Java Full Stack Developer with a strong foundation in building dynamic, responsive, and user-friendly web applications. My technical expertise spans back-end technologies like C++, Java, JDBC, Servlets, JSP, Hibernate, Spring, and Spring Boot, alongside front-end technologies such as HTML/CSS, JavaScript, and ReactJS. I thrive on solving complex problems and continuously strive to enhance my skills in full-stack development. I am eager to contribute to an innovative organization where I can leverage my abilities, grow professionally, and deliver impactful solutions."
 
