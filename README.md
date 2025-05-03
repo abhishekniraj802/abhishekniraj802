@@ -2,7 +2,11 @@
 
 ### 🌟 Aspiring Java Full Stack Developer | DATA ENGINEER | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-Welcome to my GitHub profile! I'm a passionate and driven Java Full Stack Developer with a strong foundation in building dynamic, responsive, and user-friendly web applications. My technical expertise spans back-end technologies like C++, Java, JDBC, Servlets, JSP, Hibernate, Spring, and Spring Boot, alongside front-end technologies such as HTML/CSS, JavaScript, and ReactJS. I thrive on solving complex problems and continuously strive to enhance my skills in full-stack development. I am eager to contribute to an innovative organization where I can leverage my abilities, grow professionally, and deliver impactful solutions."
+Welcome to my GitHub profile!
+I'm a passionate and results-driven Java Full Stack Developer and Data Engineer with a strong foundation in building dynamic, responsive web applications and scalable data solutions.
+My technical expertise spans back-end technologies like C++, Java, JDBC, Servlets, JSP, Hibernate, Spring, and Spring Boot, alongside front-end technologies such as HTML/CSS, JavaScript, and ReactJS. On the Data Engineering side, I am proficient in Python, SQL, and Apache Spark, with hands-on experience in Pandas, Scikit-Learn, and cloud platforms like Azure—including Blob Storage, Data Lake, and Azure Data Factory (ADF).
+
+I thrive on solving complex problems, whether it's developing robust web applications or building efficient data pipelines. I am eager to contribute to innovative, tech-driven projects, grow professionally, and deliver impactful, real-world solutions."
 
 ---
 
@@ -10,10 +14,11 @@ Welcome to my GitHub profile! I'm a passionate and driven Java Full Stack Develo
 Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
 </p>
 
-- *Programming Languages*: C++, Java, JavaScript, SQL.
+- *Programming Languages*: C++, Java, Python, JavaScript, SQL
 - *Technologies/Frameworks*: HTML/CSS, React, JDBC, Servlets, JSP, Hibernate, Spring Core, Spring MVC, SpringBoot.
-- *Developer Tools*: Eclipse IDE, VS Code, Workbench, PyCharm, IntelliJ.
-- *Coursework/ Skills*: Data Structures and Algorithms, OOPs Concepts.
+- *Data Engineering Tools & Platforms*: Apache Spark, PySpark, Pandas, Scikit-Learn, Azure Data Factory (ADF), Azure Blob Storage, Azure Data Lake Storage (ADLS), Delta Lake, Databricks, Unity Catalog
+- *Developer Tools*: Eclipse IDE, VS Code, Workbench, PyCharm, IntelliJ IDEA.
+- *Coursework/ Skills*: Data Structures and Algorithms, Object-Oriented Programming (OOP) Concepts, ETL Workflows, Data Modeling, Big Data Processing
   
 
 <p>
