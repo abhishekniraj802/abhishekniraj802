@@ -198,6 +198,7 @@ A cloud-based **Data Engineering pipeline** designed to ingest, transform, proce
 | 🥇 Databricks Certified Data Engineer Professional | ✅ Certified |
 | 🥇 Databricks Certified Data Engineer Associate    | ✅ Certified |
 | ☁️ Microsoft Certified: Azure AI Fundamentals      | ✅ Certified |
+| ☁️ Google Cloud Generative AI Leader      | ✅ Certified |
 | ☁️ AWS Certified AI Practitioner                   | ✅ Certified |
 
 ---
