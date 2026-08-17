@@ -2,32 +2,43 @@
 
 ### 🚀 Data Engineer | 1.5+ Years Experience | Azure Databricks | PySpark | SQL | Azure
 
-**Data Engineer at Persistent Systems** with **1.5+ years of professional experience** in Azure-based data engineering, ETL modernization, data pipeline development, data quality engineering, and large-scale data processing.
+**Software Engineer (Data Engineering) at Persistent Systems** with **1.5+ years of professional experience** in Azure-based data engineering, ETL modernization, data pipeline development, data quality engineering, and large-scale data processing.
 
-I specialize in building and validating **scalable cloud data pipelines** using **Azure Databricks, PySpark, SQL, Azure Data Factory (ADF), ADLS Gen2, Delta Lake, and Medallion Architecture**.
+I specialize in **Azure Data Engineering**, with hands-on experience in **Azure Databricks, PySpark, SQL, Azure Data Factory (ADF), ADLS Gen2, Delta Lake, Unity Catalog, and Medallion Architecture**.
 
-I have hands-on experience contributing to **enterprise data migration and modernization initiatives**, transforming traditional ETL workflows into scalable Databricks-based solutions while ensuring data accuracy, reliability, and production readiness.
+I have contributed to enterprise-scale **data migration and modernization initiatives**, working on scalable data pipelines, data transformations, validation frameworks, and production data workflows.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Persistent Systems — Data Engineer
+### 🏢 Persistent Systems
 
+**Software Engineer (Data Engineering)**
 **March 2026 – Present | Pune, India**
 
-Working as a Data Engineer on enterprise-scale data engineering and modernization initiatives using the Azure data platform.
+Working on enterprise data engineering and modernization initiatives using the Azure data platform.
 
 **Key Responsibilities:**
 
-* Develop and validate scalable **data pipelines using Azure Databricks, PySpark, SQL, and Azure Data Factory**.
-* Work with **ADLS Gen2, Delta Lake, and Databricks** across end-to-end data ingestion and transformation workflows.
+* Develop and validate scalable data pipelines using **Azure Databricks, PySpark, SQL, Azure Data Factory, and ADLS Gen2**.
+* Work across end-to-end data workflows including **data ingestion, transformation, validation, and reporting**.
 * Implement and validate **Bronze, Silver, Gold, and standardized data layers** following Medallion Architecture.
 * Perform comprehensive **data quality and source-to-target validation**, including record counts, null checks, duplicate detection, schema validation, and primary key validation.
 * Test **incremental and full-load pipelines**, including checkpointing, error handling, logging, and audit validations.
 * Perform **SQL and PySpark-based root-cause analysis** to investigate data discrepancies and pipeline issues.
-* Validate **Delta tables, reporting views, partitioning, audit columns, and data lineage**.
+* Validate **Delta Lake tables, reporting views, partitioning, audit columns, and data lineage**.
 * Collaborate with development and QA teams to troubleshoot defects, validate fixes, and ensure reliable production data pipelines.
+
+### 🏢 Earlier Data Engineering Experience
+
+**Data Engineering Trainee / Contract Data Engineering Experience**
+**March 2025 – February 2026**
+
+* Built practical expertise in **Azure Databricks, PySpark, SQL, ADF, ADLS, Delta Lake, and ETL workflows**.
+* Contributed to enterprise data migration activities involving ingestion and transformation of data from multiple source systems.
+* Worked with cloud-based data pipelines and performed end-to-end data validation.
+* Developed strong understanding of **data ingestion, transformation, data quality, and pipeline troubleshooting**.
 
 ---
 
@@ -65,36 +76,43 @@ Working as a Data Engineer on enterprise-scale data engineering and modernizatio
 
 ```text
 Source Systems
-      ↓
+      │
+      ▼
 Azure Data Factory
-      ↓
+      │
+      ▼
 ADLS Gen2
-      ↓
+      │
+      ▼
 Azure Databricks
-      ↓
+      │
+      ▼
 PySpark Transformations
-      ↓
+      │
+      ▼
 Delta Lake
-      ↓
+      │
+      ▼
 Bronze → Silver → Gold
-      ↓
+      │
+      ▼
 Analytics / Reporting
 ```
 
 ### 🔍 Data Quality & Validation
 
-* ✅ Record Count Validation
-* ✅ Source-to-Target Reconciliation
-* ✅ Null Value Checks
-* ✅ Duplicate Detection
-* ✅ Primary Key Validation
-* ✅ Schema Validation
-* ✅ Data Accuracy Validation
-* ✅ Data Lineage Validation
-* ✅ Incremental Load Validation
-* ✅ Full Load Validation
-* ✅ Audit Column Validation
-* ✅ File Format Validation
+* Record Count Validation
+* Source-to-Target Reconciliation
+* Null Value Checks
+* Duplicate Detection
+* Primary Key Validation
+* Schema Validation
+* Data Accuracy Validation
+* Data Lineage Validation
+* Incremental Load Validation
+* Full Load Validation
+* Audit Column Validation
+* File Format Validation
 
 ### ⚡ PySpark & SQL
 
@@ -126,39 +144,39 @@ A cloud-based **Data Engineering pipeline** designed to ingest, transform, proce
 ### 🏗️ Architecture
 
 ```text
-                ┌──────────────────┐
-                │   Source Data    │
-                └────────┬─────────┘
-                         │
-                         ▼
-                ┌──────────────────┐
-                │ Azure Data Factory│
-                └────────┬─────────┘
-                         │
-                         ▼
-                ┌──────────────────┐
-                │    ADLS Gen2     │
-                └────────┬─────────┘
-                         │
-                         ▼
-                ┌──────────────────┐
-                │  Bronze Layer    │
-                └────────┬─────────┘
-                         │
-                         ▼
-                ┌──────────────────┐
-                │  Silver Layer    │
-                └────────┬─────────┘
-                         │
-                         ▼
-                ┌──────────────────┐
-                │   Gold Layer     │
-                └────────┬─────────┘
-                         │
-                         ▼
-                ┌──────────────────┐
-                │ Analytics & BI   │
-                └──────────────────┘
+                  ┌──────────────────┐
+                  │   Source Data    │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Azure Data Factory│
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │    ADLS Gen2     │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │  Bronze Layer    │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │  Silver Layer    │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │   Gold Layer     │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Analytics & BI   │
+                  └──────────────────┘
 ```
 
 ### Key Highlights
@@ -167,7 +185,7 @@ A cloud-based **Data Engineering pipeline** designed to ingest, transform, proce
 * Implemented **Medallion Architecture** using Bronze, Silver, and Gold layers.
 * Developed scalable data transformations using **PySpark**.
 * Used **Delta Lake** for reliable and scalable data storage.
-* Applied data cleansing and data validation techniques.
+* Applied data cleansing and validation techniques.
 * Implemented partitioning strategies for efficient data processing.
 * Used **Unity Catalog** for data governance and access management.
 
@@ -175,21 +193,12 @@ A cloud-based **Data Engineering pipeline** designed to ingest, transform, proce
 
 ## 🏆 Certifications
 
-### 🥇 Databricks Certified Data Engineer Professional
-
-**Certified**
-
-### 🥇 Databricks Certified Data Engineer Associate
-
-**Certified**
-
-### ☁️ Microsoft Certified: Azure AI Fundamentals
-
-**Certified**
-
-### ☁️ AWS Certified AI Practitioner
-
-**Certified**
+| Certification                                      | Status      |
+| -------------------------------------------------- | ----------- |
+| 🥇 Databricks Certified Data Engineer Professional | ✅ Certified |
+| 🥇 Databricks Certified Data Engineer Associate    | ✅ Certified |
+| ☁️ Microsoft Certified: Azure AI Fundamentals      | ✅ Certified |
+| ☁️ AWS Certified AI Practitioner                   | ✅ Certified |
 
 ---
 
@@ -199,25 +208,21 @@ A cloud-based **Data Engineering pipeline** designed to ingest, transform, proce
 
 **Bachelor of Engineering — Computer Science & Engineering**
 
-🎓 **Graduated: May 2024**
+**Graduated: May 2024**
 
 ---
 
 ## 📈 Currently Exploring
 
-I'm continuously strengthening my expertise in:
-
-* 🔹 Advanced PySpark
-* 🔹 Apache Spark
-* 🔹 SQL Optimization
-* 🔹 Databricks
-* 🔹 Delta Lake
-* 🔹 Unity Catalog
-* 🔹 Azure Data Engineering
-* 🔹 Lakehouse Architecture
-* 🔹 Spark Performance Optimization
-* 🔹 Scalable Data Pipeline Design
-* 🔹 Data Engineering System Design
+* Advanced **PySpark & Apache Spark**
+* **Databricks & Delta Lake**
+* **Unity Catalog & Data Governance**
+* Spark Performance Optimization
+* Advanced SQL & Query Optimization
+* Azure Data Engineering
+* Lakehouse Architecture
+* Scalable Data Pipeline Design
+* Data Engineering System Design
 
 ---
 
@@ -235,32 +240,24 @@ I'm continuously strengthening my expertise in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekniraj802&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekniraj802&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 ## 🔗 Let's Connect
 
 <div align="left">
 
 <a href="https://www.linkedin.com/in/abhishekniraj802/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
 </a>
 
-<a href="mailto:abhishekniraj802@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+ 
+
+<a href="mailto:abhishekniraj802@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
 </a>
+
+ 
 
 <a href="https://my-portfolio-puce-ten-16.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
 </a>
 
 </div>
